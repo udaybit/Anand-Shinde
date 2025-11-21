@@ -1,0 +1,275 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Anand Shinde — Powertrain • Automation • Mechanical Design</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<button id="scrollTopBtn" class="scroll-top-btn">↑</button>
+
+<body>
+  <header class="site-header premium-header">
+    <div class="container header-inner">
+      <div class="brand">
+        <div class="logo" aria-hidden="true">
+          <!-- simple svg logo -->
+          <svg width="44" height="44" viewBox="0 0 100 100" role="img">
+            <rect x="0" y="0" width="100" height="100" rx="18" fill="#042f2e"/>
+            <text x="50" y="60" font-family="Segoe UI, Roboto, Arial" font-size="42" fill="#a6fff0" text-anchor="middle" font-weight="700">AS</text>
+          </svg>
+        </div>
+        <div class="brand-text">
+          <h1>Anand Shinde</h1>
+          <p class="tagline">Powertrain • Automation • Mechanical Design</p>
+        </div>
+      </div>
+
+      <nav class="nav premium-nav" id="nav">
+        <button class="nav-toggle" id="navToggle" aria-expanded="false" aria-controls="navList">
+          ☰
+        </button>
+        <ul id="navList" class="nav-list">
+          <li><a href="#about">About</a></li>
+          <li><a href="#experience">Experience</a></li>
+          <li><a href="#projects">Projects</a></li>
+          <li><a href="#skills">Skills</a></li>
+          <li><a href="#education">Education</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <!-- HERO -->
+    <section class="hero">
+      <div class="container hero-inner">
+        <div class="hero-left">
+          <!-- Title (lowered as requested) -->
+          <h2>Powertrain &amp; Automation Leader</h2>
+
+          <!-- Description -->
+          <p class="lead">
+            19+ years designing robotic automation, robotic deburring &amp; washers, handling systems (robots &amp; cobots), conveyors, and high-pressure compressor systems.
+          </p>
+
+          <!-- CTA row (Download / Hire / LinkedIn) -->
+          <div class="cta-row">
+            <a class="btn primary" id="downloadResume" href="/mnt/data/Anand_Shinde_03_02_2025.docx" target="_blank" rel="noopener">
+              <svg class="icon" viewBox="0 0 24 24" width="16" height="16"><path fill="currentColor" d="M5 20h14v-2H5v2zM12 2v10l3-3 1.4 1.4L12 16 7.6 10.4 9 9l3 3V2h0z"/></svg>
+              Download Resume
+            </a>
+
+            <a class="btn outline" href="#contact">Hire / Contact</a>
+
+            <a class="btn linkedin" href="https://www.linkedin.com/in/yourprofile" target="_blank" rel="noopener">
+              <!-- LinkedIn icon (simple) -->
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-9.75 14.5h-2.5v-6h2.5v6zM7.5 9.75c-.8 0-1.45-.65-1.45-1.45C6.05 7.5 6.7 6.85 7.5 6.85c.8 0 1.45.65 1.45 1.45 0 .8-.65 1.45-1.45 1.45zM18 17.5h-2.5v-2.9c0-.7 0-1.6-.98-1.6-.98 0-1.13.77-1.13 1.55v2.95H10.5v-6h2.4v.82h.03c.33-.62 1.14-1.28 2.35-1.28 2.51 0 2.97 1.65 2.97 3.8v3.66z"/></svg>
+              LinkedIn
+            </a>
+          </div>
+
+          <!-- small contact quick links -->
+          <ul class="contact-mini">
+            <li><strong>Mobile:</strong> <a href="tel:+918669414519">+91 86694 14519</a></li>
+            <li><strong>Email:</strong> <a href="mailto:aashinde_be80@rediffmail.com">aashinde_be80@rediffmail.com</a></li>
+            <li><strong>Location:</strong> Hadapsar, Pune, India</li>
+          </ul>
+        </div>
+
+        <div class="hero-right">
+          <div class="card summary-card">
+            <h3>Quick Profile</h3>
+            <p><strong class="gold">Current:</strong> Manager, Powertrain — CHROPYNSKA INDIA PVT. LTD. (Apr 2023 – present)</p>
+            <p><strong>Total Experience:</strong> 19 years 5 months (Design &amp; R&amp;D)</p>
+            <p><strong>Core areas:</strong> Robotic automation, industrial washers, conveyors, handling systems, compressors, project proposals &amp; vendor development.</p>
+            <p><strong>CAD tools:</strong> AutoCAD, Inventor, UG NX, Solid Edge, Catia V5R19.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ABOUT -->
+    <section id="about" class="section about">
+      <div class="container">
+        <h2>About</h2>
+
+        <div class="about-grid">
+          <div>
+            <h3>Objective</h3>
+            <p>To achieve best possible success through hard work &amp; continuous learning, contributing engineering experience to robust, cost-effective automation and powertrain solutions.</p>
+
+            <h3>Present Role</h3>
+            <p>Lead powertrain project design, proposals, cost estimation, supplier development and product release. Ensure safety &amp; Industry 4.0 requirements, coordinate installations and customer handover.</p>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- EXPERIENCE -->
+    <section id="experience" class="section">
+      <div class="container">
+        <h2>Experience</h2>
+
+        <div class="timeline" id="timelineShort">
+          <!-- Visible items by default -->
+          <article class="timeline-item">
+            <h3>CHROPYNSKA INDIA PVT. LTD.</h3>
+            <p class="muted">Manager, Powertrain — April 2023 to present</p>
+            <ul>
+              <li>Lead powertrain engineering &amp; development projects.</li>
+              <li>Project cost proposals, supplier development, and safety audits.</li>
+            </ul>
+          </article>
+
+          <article class="timeline-item">
+            <h3>Valiant-TMS Systems Pvt. Ltd.</h3>
+            <p class="muted">Manager, Powertrain — Nov 2012 to Mar 2023</p>
+            <ul>
+              <li>Designed robotic deburring stations &amp; high-pressure robotic washers.</li>
+              <li>Conveyor systems for Mercedes-Benz and PSA Group.</li>
+              <li>Fixtures, leak-testing machines, robotic handling tooling.</li>
+            </ul>
+          </article>
+        </div>
+
+        <div class="timeline" id="timelineMore" style="display:none;">
+          <!-- Hidden until user clicks "Show More" -->
+          <article class="timeline-item">
+            <h3>Zippel GmbH &amp; Co. Pvt. Ltd.</h3>
+            <p class="muted">Sr. Design Engineer — Jun 2010 to Nov 2012</p>
+            <ul>
+              <li>Industrial washers, pneumatic circuits, P&amp;ID, safety interlocks.</li>
+            </ul>
+          </article>
+
+          <article class="timeline-item">
+            <h3>Filtration Technik India</h3>
+            <p class="muted">Sr. Project Engineer — Apr 2009 to Jun 2010</p>
+            <ul>
+              <li>Piping, filters, prototypes, BOM development.</li>
+            </ul>
+          </article>
+
+          <article class="timeline-item">
+            <h3>Kirloskar Pneumatic Co. Ltd.</h3>
+            <p class="muted">Sr. Design Engineer — Aug 2005 to Mar 2009</p>
+            <ul>
+              <li>Reciprocating &amp; screw compressor design and cooling systems.</li>
+            </ul>
+          </article>
+
+          <!-- If your doc has additional companies, paste them here exactly as in the doc (or send the doc; I can add them) -->
+        </div>
+
+        <div style="margin-top:14px;">
+          <button id="showMoreBtn" class="btn outline">Show More ↓</button>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- PROJECTS -->
+    <section id="projects" class="section">
+      <div class="container">
+        <h2>Major Projects &amp; Highlights</h2>
+        <div class="cards-grid">
+          <div class="card"><h4>Robotic Deburring &amp; Washers</h4><p>Concept to installation for TATA Cummins &amp; OEMs.</p></div>
+          <div class="card"><h4>Handling Systems (Robots &amp; Cobots)</h4><p>EoAT, conveyors, gantries, fixtures.</p></div>
+          <div class="card"><h4>Industrial Washers &amp; Filters</h4><p>Shell filters, magnetic chips, paper band filters.</p></div>
+          <div class="card"><h4>High Pressure Compressors</h4><p>Layouts, piping, heat exchangers.</p></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- SKILLS -->
+    <section id="skills" class="section">
+      <div class="container">
+        <h2>Skills &amp; Tools</h2>
+        <div class="skill-columns" id="skillChips">
+          <!-- Skill chips (premium) -->
+          <li class="chip">Robotic Automation</li>
+          <li class="chip">Industrial Washers</li>
+          <li class="chip">Fixtures / EoAT</li>
+          <li class="chip">Conveyors</li>
+          <li class="chip">Project Proposals</li>
+          <li class="chip">Costing</li>
+          <li class="chip">Vendor Development</li>
+          <li class="chip">Installation Support</li>
+          <li class="chip">AutoCAD / Inventor / NX</li>
+          <li class="chip">Solid Edge / Catia</li>
+          <li class="chip">ASME / API / IS Standards</li>
+        </div>
+      </div>
+    </section>
+
+    <!-- EDUCATION -->
+    <section id="education" class="section">
+      <div class="container">
+        <h2>Education</h2>
+        <div class="card">
+          <p><strong>B.E. (Mechanical)</strong> — 2005, Pune</p>
+          <p><strong>H.S.C.</strong> — Srirampur</p>
+          <p><strong>S.S.C.</strong> — Srirampur</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- CONTACT -->
+    <section id="contact" class="section contact-section">
+      <div class="container">
+        <h2>Contact</h2>
+        <div class="contact-grid">
+          <div class="card">
+            <h4>Get in touch</h4>
+            <p>Email: <a href="mailto:aashinde_be80@rediffmail.com">aashinde_be80@rediffmail.com</a></p>
+            <p>Phone: <a href="tel:+918669414519">+91 86694 14519</a></p>
+            <p>Location: Hadapsar, Pune</p>
+            <a class="btn primary" href="/mnt/data/Anand_Shinde_03_02_2025.docx" target="_blank" rel="noopener">
+              Resume (DOCX)
+            </a>
+          </div>
+
+          <form id="contactForm" class="card contact-form" onsubmit="return false;">
+            <label>Your name</label>
+            <input id="name" type="text" required>
+
+            <label>Email</label>
+            <input id="email" type="email" required>
+
+            <label>Message</label>
+            <textarea id="message" rows="5"></textarea>
+
+            <div class="form-actions">
+              <button class="btn primary" id="sendBtn" type="button">Send</button>
+              <button class="btn outline" type="reset">Reset</button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer premium-footer">
+    <div class="container footer-inner">
+      <div class="footer-brand">
+        <div class="logo" aria-hidden="true">
+          <svg width="36" height="36" viewBox="0 0 100 100"><rect x="0" y="0" width="100" height="100" rx="18" fill="#ffffff22"/></svg>
+        </div>
+        <div class="footer-text">
+          <h3>Anand Shinde</h3>
+          <p class="tag">Powertrain • Automation • Mechanical Design</p>
+        </div>
+      </div>
+
+      <div class="footer-right">
+        <p>© <span id="year"></span> Anand Shinde — Mechanical / Powertrain.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
